@@ -1,4 +1,4 @@
-# 📚 Study With Your PDF
+# 📚 PDF Navigator
 
 A simple Streamlit application that allows you to understand the contents of PDF documents.
 
